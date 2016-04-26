@@ -3,8 +3,8 @@
 
 ### 教學1  如何使用git      editer: Tony
  - ##### 安裝git   
- ```https://git-scm.com/```   
- - ##### 上傳修改的檔案
+	```https://git-scm.com/```   
+ - ##### 上傳修改的檔案   
  1. 複製一個git項目   
     ```git clone https://github.com/sylcjl/MASTERING_HOW_BE_A_USEFUL_SLAVE.git```
  2. 加入修正一個過的檔案   
@@ -14,3 +14,8 @@
  4. 上傳   
     ```git push -u origin BRANCH_NAME```
 	for example:   ```git push -u origin master``` this will update to the branck: "master"
+	
+### 教學2  如何編輯README.md      editer: Tony
+ - USE Markdown.   
+ - Recommend editer   
+	```http://dillinger.io/```
