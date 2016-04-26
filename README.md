@@ -13,3 +13,4 @@
     ```git commit -m "說明內容"```
  4. 上傳   
     ```git push -u origin BRANCH_NAME```
+	for example:   ```git push -u origin master``` this will update to the branck: "master"
