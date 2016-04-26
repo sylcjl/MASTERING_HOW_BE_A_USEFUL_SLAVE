@@ -14,8 +14,9 @@
 	```git push -u origin BRANCH_NAME```   
 	for example:   ```git push -u origin master``` this will update to the branck: "master"   
  - 可使用的Git工具
-	1. [TortioiseGit](https://tortoisegit.org/):   
-		支持多語言，不用記一堆語法
+	1. [TortioiseGit](https://tortoisegit.org/download/):   
+		支持多語言，不用記一堆語法   
+		先安裝[主程式x64](https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-2.1.0.0-64bit.msi)再安裝語言包[简体中文](https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-64bit-zh_CN.msi)or[繁體中文](https://download.tortoisegit.org/tgit/2.1.0.0/TortoiseGit-LanguagePack-2.1.0.0-64bit-zh_TW.msi)
 	
 ### 教學2  如何編輯README   edit by: Tony
  - USE Markdown.   
