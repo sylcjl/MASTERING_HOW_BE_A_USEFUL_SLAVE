@@ -14,7 +14,8 @@
 	```git push -u origin BRANCH_NAME```   
 	for example:   ```git push -u origin master``` this will update to the branck: "master"   
  - 可使用的Git工具
-	1. TortioiseGit
+	1. [TortioiseGit](https://tortoisegit.org/):   
+		支持多語言，不用記一堆語法
 	
 ### 教學2  如何編輯README   edit by: Tony
  - USE Markdown.   
