@@ -12,8 +12,8 @@
  3. 為上傳的檔案加入改版的說明   
     ```git commit -m "說明內容"```
  4. 上傳   
-    ```git push -u origin BRANCH_NAME```
-	for example:   ```git push -u origin master``` this will update to the branck: "master"
+    ```git push -u origin BRANCH_NAME```   
+	for example:   ```git push -u origin master``` this will update to the branck: "master"   
 	
 ### 教學2  如何編輯README.md      editer: Tony
  - USE Markdown.   
